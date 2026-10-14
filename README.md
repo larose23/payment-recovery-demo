@@ -9,7 +9,7 @@ When a subscriber's renewal is declined, the system:
 3. Stops all reminders the moment they pay, and sends a thank-you
 4. Shows every failed payment, each email sent, and the revenue recovered on a dashboard
 
-**Live demo:** _link added after deployment_
+**Live demo:** [payment-recovery-demo-omega.vercel.app](https://payment-recovery-demo-omega.vercel.app)
 
 ## Why it's built this way
 
